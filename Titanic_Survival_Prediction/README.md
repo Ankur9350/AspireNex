@@ -10,7 +10,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 
 ## Dataset
 
-The dataset used in this project is the famous <a href = "https://github.com/kindo-tk/CODSOFT/blob/main/Titanic_Survival_Prediction/Titanic-Dataset.csv"> `Titanic dataset`</a>, which is widely used for machine learning and data analysis purposes. It contains various features such as passenger class, age, sex, fare, and whether the passenger survived or not.
+The dataset used in this project is the famous <a href = "https://www.kaggle.com/datasets/ashishkumarjayswal/titanic-datasets"> `Titanic dataset`</a>, which is widely used for machine learning and data analysis purposes. It contains various features such as passenger class, age, sex, fare, and whether the passenger survived or not.
 
 ## Project Structure
 
@@ -33,7 +33,5 @@ Thank you for your interest in the Titanic Survival Detection project!
 
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
-
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
+- Email: ankurbhimra4@gmail.com
 
