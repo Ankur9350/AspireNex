@@ -6,7 +6,7 @@ This repository contains the Iris flower classification project completed as par
 
 ## Project Overview
 
-The <a href = "https://github.com/kindo-tk/CODSOFT/blob/main/Iris_Flower_Classification/IRIS.csv">`Iris dataset`</a> is a classic dataset in machine learning, containing three classes of Iris species: Iris Setosa, Iris Versicolour, and Iris Virginica. Each class has 50 samples with four features: sepal length, sepal width, petal length, and petal width.
+The <a href = "https://www.kaggle.com/datasets/arshid/iris-flower-dataset">`Iris dataset`</a> is a classic dataset in machine learning, containing three classes of Iris species: Iris Setosa, Iris Versicolour, and Iris Virginica. Each class has 50 samples with four features: sepal length, sepal width, petal length, and petal width.
 
 ## Algorithms Used
 
@@ -22,6 +22,4 @@ Logistic Regression slightly outperformed the Decision Tree Classifier in terms 
 
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
-
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
+- Email: ankurbhimra4@gmail.com
